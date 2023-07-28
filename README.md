@@ -4,7 +4,7 @@ Aimed at developing a predictive model for early detection.
 The target variable is binary, with '0' representing benign cases and '1' indicating malignant instances.
 This dataset serves as a resource to develop ML models for cancer prediction and could contribute to the healthcare sector".
                                     
-                                         Accuracies of Different Algorithms
+                                                      Accuracies of Different Algorithms
 Suppor vector Classifier:-        96.49%
 
 Logistic Regression:-             45.61%
@@ -23,6 +23,6 @@ XGBoost Classifier:-              98.24%
 
 Result:- XGBoost Classifier is the best fit model or algorithm for Breast Cancer Prediction .
 
-                                                 THANK YOU 
-                                              VANSH KUMAR SHARMA    
+                                                                  THANK YOU 
+                                                              VANSH KUMAR SHARMA    
  
