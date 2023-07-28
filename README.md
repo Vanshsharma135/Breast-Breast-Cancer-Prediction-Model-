@@ -24,8 +24,6 @@ XGBoost Classifier:-              98.24%
  
 **Result:-**   XGBoost Classifier is the best fit model or algorithm for Breast Cancer Prediction .
 
-                                                    
-THANK YOU 
-
-VANSH KUMAR SHARMA   
+**Thanks**
+**Vansh**
  
