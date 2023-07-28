@@ -6,16 +6,23 @@ This dataset serves as a resource to develop ML models for cancer prediction and
                                     
                                          Accuracies of Different Algorithms
 Suppor vector Classifier:-        96.49%
-Suppor vector Classifier:-        45.61%
+
+Logistic Regression:-             45.61%
+
 K – Nearest Neighbor Classifier:- 57.85%
-K – Nearest Neighbor Classifier:- 93.85%
+
+Naive Bayes Classifier:-          93.85%
+
 Decision Tree Classifier:-        75.43%
+
 Random Forest Classifier:-        75.43%
+
 AdaBoost Classifier:-             97.73%
+
 XGBoost Classifier:-              98.24%
 
 Result:- XGBoost Classifier is the best fit model or algorithm for Breast Cancer Prediction .
 
-                                          THANK YOU 
-                                      VANSH KUMAR SHARMA    
+                                                 THANK YOU 
+                                              VANSH KUMAR SHARMA    
  
